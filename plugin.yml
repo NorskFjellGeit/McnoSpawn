@@ -1,0 +1,13 @@
+name: McnoSpawn
+main: no.mcno.spawn.McnoSpawn
+version: 1.0
+description: >
+             MineCraft Norway Spawn Plugin
+commands:
+  spawn:
+    description: TP til spawn
+    default: true
+  setspawn:
+    description: Sett spawn posisjon
+    default: op
+    usage: /setspawn
